@@ -6,8 +6,6 @@
 
 一个基于 *Apex Legends* Nessie 概念创作的 Codex v2 动态桌面宠物。它使用柔和的贴纸 / 表情包插画风格：浅橄榄绿色长颈海怪、奶油色腹部、深橄榄描边与黑色珠光眼睛。
 
-![Nessie 全部动画与视角](assets/qa/contact-sheet-extended.png)
-
 ![向右移动](assets/previews/running-right.gif)
 ![向左移动](assets/previews/running-left.gif)
 
@@ -56,8 +54,6 @@
 
 *Apex Legends* の Nessie を着想元にした、Codex v2 対応のアニメーション付きデスクトップペットです。淡いオリーブグリーン、クリーム色の腹部、濃いオリーブの輪郭線、つやのある黒い瞳を持つステッカー風の首長竜として制作しています。
 
-![アニメーションと視線方向の一覧](assets/qa/contact-sheet-extended.png)
-
 ![右向き移動](assets/previews/running-right.gif)
 ![左向き移動](assets/previews/running-left.gif)
 
@@ -100,8 +96,6 @@ v2 atlas の寸法と透明度は検証済みです。9 本すべての GIF を�
 ## English
 
 A Codex v2 animated desktop pet inspired by the *Apex Legends* Nessie concept. It is a light olive-green, sticker-style plesiosaur with a cream belly, dark olive outlines, and glossy black bead eyes.
-
-![Complete animation and direction sheet](assets/qa/contact-sheet-extended.png)
 
 ![Running right](assets/previews/running-right.gif)
 ![Running left](assets/previews/running-left.gif)
