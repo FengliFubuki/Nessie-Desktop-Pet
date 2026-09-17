@@ -1,0 +1,7 @@
+{
+  "visual_qa": "pass",
+  "reviewer": "independent color_edge_final_qa worker",
+  "qa_note": "All 16 movement heads are light lime with thin olive outlines and tiny black eyes; corrected leftward cells have complete smooth tails, proper facing and alternating flippers, and decoded GIFs show clean edges without blue pixels or mask mismatches. Preserved rows and accepted gaze warnings remain applicable.",
+  "repair_rows": "none",
+  "repair_notes": "none"
+}
